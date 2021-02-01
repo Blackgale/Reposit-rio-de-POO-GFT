@@ -1,0 +1,11 @@
+C:\Users\pedro\Desktop\GFT Teste\PrimeiroEx\bin\Debug\netcoreapp3.1\PrimeiroEx.exe
+C:\Users\pedro\Desktop\GFT Teste\PrimeiroEx\bin\Debug\netcoreapp3.1\PrimeiroEx.deps.json
+C:\Users\pedro\Desktop\GFT Teste\PrimeiroEx\bin\Debug\netcoreapp3.1\PrimeiroEx.runtimeconfig.json
+C:\Users\pedro\Desktop\GFT Teste\PrimeiroEx\bin\Debug\netcoreapp3.1\PrimeiroEx.runtimeconfig.dev.json
+C:\Users\pedro\Desktop\GFT Teste\PrimeiroEx\bin\Debug\netcoreapp3.1\PrimeiroEx.dll
+C:\Users\pedro\Desktop\GFT Teste\PrimeiroEx\bin\Debug\netcoreapp3.1\PrimeiroEx.pdb
+C:\Users\pedro\Desktop\GFT Teste\PrimeiroEx\obj\Debug\netcoreapp3.1\PrimeiroEx.csprojAssemblyReference.cache
+C:\Users\pedro\Desktop\GFT Teste\PrimeiroEx\obj\Debug\netcoreapp3.1\PrimeiroEx.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\GFT Teste\PrimeiroEx\obj\Debug\netcoreapp3.1\PrimeiroEx.AssemblyInfo.cs
+C:\Users\pedro\Desktop\GFT Teste\PrimeiroEx\obj\Debug\netcoreapp3.1\PrimeiroEx.dll
+C:\Users\pedro\Desktop\GFT Teste\PrimeiroEx\obj\Debug\netcoreapp3.1\PrimeiroEx.pdb
